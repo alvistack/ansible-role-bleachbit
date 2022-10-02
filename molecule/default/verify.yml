@@ -20,6 +20,7 @@
   become: true
   tasks:
     - name: bleachbit --version
-      ansible.builtin.command: bleachbit --version
+      ansible.builtin.command:
+        cmd: bleachbit --version
       register: result
       changed_when: result is not succeeded
