@@ -19,8 +19,8 @@
   remote_user: root
   become: true
   tasks:
-    - name: bleachbit --version
+    - name: flatpak info org.bleachbit.BleachBit
       ansible.builtin.command:
-        cmd: bleachbit --version
+        cmd: flatpak info org.bleachbit.BleachBit
       register: result
       changed_when: result is not succeeded
