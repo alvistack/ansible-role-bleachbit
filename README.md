@@ -1,13 +1,13 @@
-# Ansible Role for BleachBit
+# Ansible Role for BleachBit with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-bleachbit/master)](https://gitlab.com/alvistack/ansible-role-bleachbit/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-bleachbit.svg)](https://github.com/alvistack/ansible-role-bleachbit/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-bleachbit.svg)](https://github.com/alvistack/ansible-role-bleachbit/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.bleachbit-blue.svg)](https://galaxy.ansible.com/alvistack/bleachbit)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_bleachbit/master)](https://gitlab.com/alvistack/ansible-role-flatpak_bleachbit/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_bleachbit.svg)](https://github.com/alvistack/ansible-role-flatpak_bleachbit/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_bleachbit.svg)](https://github.com/alvistack/ansible-role-flatpak_bleachbit/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_bleachbit-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_bleachbit)
 
-Ansible Role for BleachBit Installation.
+Ansible Role for BleachBit with Flatpak.
 
 ## Requirements
 

@@ -1,4 +1,4 @@
-# Ansible Role for BleachBit
+# Ansible Role for BleachBit with Flatpak
 
 ## 13.6.0 - TBC
 

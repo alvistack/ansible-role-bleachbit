@@ -24,4 +24,4 @@
 
     - name: include role
       ansible.builtin.include_role:
-        name: alvistack.bleachbit
+        name: alvistack.flatpak_bleachbit
